@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NCRTask</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_frequent">FrequentActivity</string>
+    <string name="title_activity_invalid">InvalidActivity</string>
+    <string name="editText_input">Enter a set (e.g. 1,2,3)</string>
+    <string name="button_check">Check</string>
+    <string name="textView_previousSet">"Previous Set: "</string>
+    <string name="textView_presentSet">"Present Set: "</string>
+    <string name="textView_duplicate">"Duplicate: "</string>
+    <string name="textView_duplicateNumber">"# of Duplicates: "</string>
+    <string name="textView_defaultValue">0</string>
+    <string name="textView_nonDuplicateNumber">"# of Non-Duplicates: "</string>
+    <string name="button_invalid">Invalid Inputs</string>
+    <string name="button_test">Test</string>
+    <string name="button_frequent">List Frequent</string>
+</resources>
